@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "amiitool",
+        "repositoryURL": "https://github.com/arslan2012/amiitool.git",
+        "state": {
+          "branch": "master",
+          "revision": "7bd470ead2df778530342c742691cdc3f69b18fa",
+          "version": null
+        }
+      },
+      {
+        "package": "DirectoryWatcher",
+        "repositoryURL": "https://github.com/GianniCarlo/DirectoryWatcher.git",
+        "state": {
+          "branch": null,
+          "revision": "0fab4991b68d3850ffe67fded9d248111015a054",
+          "version": "2.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
